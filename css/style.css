@@ -1,0 +1,72 @@
+.nav{
+    background-color: rgb(15, 34, 34);
+    text-align: right;
+    text-decoration: none;
+
+}
+.nav ul{
+    display: inline-flex;
+    list-style: none;
+    color: black;
+    text-align: right;
+    margin: auto;
+    padding: 0%;
+   
+
+}
+.nav ul li{
+    width: 100px;
+    margin: 15px;
+    padding: 15px;
+    color: black;
+}
+.ser{
+    text-align: center;
+    text-decoration: none;
+    
+}
+.por{
+    text-align: center;
+    text-decoration: none;
+}
+.amaz{
+
+}
+.amaz h2{
+    text-align: center;
+}
+.sama{
+   
+    margin-left: 300px;
+    width : 150px; height : 150px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 75px;
+}
+
+#imagegauche, #imagedroite
+{
+ display : inline-block;
+}
+.image-ronde{
+    width : 150px; height : 150px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 75px;
+
+  }
+  .Cnt h3{
+      text-align: center;
+  }
+
+  #imagegauchee,#text, #imagedroitee
+{
+ display : inline-block;
+
+}
+.desc{
+    width: 300px;
+    height: 100px;
+}
